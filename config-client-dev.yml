@@ -2,6 +2,5 @@ info:
   profile: dev
   dataSource: localhost:3306
   
-user:
-  name: hongxing
-  sex: man
+server:
+  port: 80
