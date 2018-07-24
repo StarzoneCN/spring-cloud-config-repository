@@ -2,8 +2,5 @@ info:
   profile: dev
   dataSource: localhost:3306
 
-encrypt:
-  key: didispace
-
 server:
   port: 80
