@@ -2,8 +2,5 @@ info:
   profile: dev
   dataSource: {cipher}AQAxPn9BejCvOUWkA5H9c68kZe2a6c/BbIgl+2MLOeC7/PYgryKaexs/ZCG7senxJRj9dWyMo7I+mTUIAtDRJyYX4qc+5B3sSUZ5XFl9YpRVIHrG3VlKSHD2OvzDuTFraeLK4/wWLJ33NZfYaojUHew3wssiWTbK+lpLCBFGcEYdU62hvELL8VHod2S/CG28y0R/x2+wc4yUsdircMSrGe/HSZ79nKthtuWR4WWLAJvwE5sXxHlxKdhZMwgCztJ4ttovZ2xxmZBCSKkPE5VuBU128M6BMBqm1Fr4mQT5dm8OWAZpvRsLKbyiczm14l2ppH1nIOonSMxi5XZpQ9JJVTMTGuMOZb0jA3mH5+AGPxj3Czl6ww29al/MQXDlkLqOUqk=
 
-encrypt:
-  key: didispace
-
 server:
   port: 80
