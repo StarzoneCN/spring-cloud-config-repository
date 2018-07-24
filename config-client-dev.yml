@@ -4,3 +4,6 @@ info:
 
 encrypt:
   key: didispace
+
+server:
+  port: 80
